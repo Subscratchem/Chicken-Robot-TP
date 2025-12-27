@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="16.62331"
+   height="17.75434"
+   viewBox="0,0,16.62331,17.75434"
+   id="svg12"
+   sodipodi:docname="robot_chicken.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#6e6e6e"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="31.224576"
+     inkscape:cx="6.8695889"
+     inkscape:cy="9.9280771"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     d="M 11.02196,13.09959 H 0.75001 V 6.0597 H 8.89802 V 0.75 h 4.45644 v 3.03555 h 2.51886 v 2.19593 h -1.67924 v 1.3886 h -0.83962 v 0.41981 h -2.3325 z"
+     fill="none"
+     stroke="#ff0000"
+     stroke-width="1.5"
+     stroke-linecap="butt"
+     stroke-linejoin="round"
+     id="path1"
+     style="display:inline;stroke:#ffffff;stroke-miterlimit:10;stroke-opacity:1"
+     inkscape:label="Glow"
+     inkscape:export-filename="robot_01-uhd\robot_01_01_glow_001.png"
+     inkscape:export-xdpi="693"
+     inkscape:export-ydpi="693" />
+  <g
+     id="g24"
+     inkscape:label="Leg"
+     style="display:inline">
+    <path
+       d="M 5.30983,13.09959 H 6.2265 v 3.16666 h 1.45011 v 0.73809 H 5.30983 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path2"
+       style="display:inline;stroke:#ffffff;stroke-miterlimit:10;stroke-opacity:1"
+       inkscape:label="leglow"
+       inkscape:export-filename="robot_01-uhd\robot_01_04_glow_001.png"
+       inkscape:export-xdpi="693"
+       inkscape:export-ydpi="693" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="M 5.30983,13.09959 H 6.2265 v 3.16666 h 1.45011 v 0.73809 H 5.30983 Z"
+       id="path25"
+       inkscape:label="P2Leg"
+       inkscape:export-filename="robot_01-uhd\robot_01_04_2_001.png"
+       inkscape:export-xdpi="693"
+       inkscape:export-ydpi="693" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="m 5.3105469,12.849609 a 0.250025,0.250025 0 0 0 -0.25,0.25 v 3.904297 a 0.250025,0.250025 0 0 0 0.25,0.25 h 2.3652343 a 0.250025,0.250025 0 0 0 0.25,-0.25 v -0.738281 a 0.250025,0.250025 0 0 0 -0.25,-0.25 H 6.4765625 v -2.916016 a 0.250025,0.250025 0 0 0 -0.25,-0.25 z m 0.25,0.5 h 0.4160156 v 2.916016 a 0.250025,0.250025 0 0 0 0.25,0.25 h 1.1992187 v 0.238281 H 5.5605469 Z"
+       id="path26"
+       inkscape:label="P1Leg" />
+  </g>
+  <g
+     id="g2"
+     inkscape:label="P2"
+     style="display:inline;fill:#ffffff;fill-opacity:1">
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="M 2.46464,10.81922 V 6.0597 h 7.6089 v 4.75952 z"
+       id="path16" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="M 13.35446,5.98148 V 3.78555 h 2.51886 v 2.19593 z"
+       id="path14" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="m 13.35446,7.37008 v -1.3886 h 0.83962 v 1.3886 z"
+       id="path12" />
+  </g>
+  <g
+     id="g1"
+     inkscape:label="P1"
+     style="display:inline"
+     inkscape:export-filename="robot_01-uhd\robot_01_01_001.png"
+     inkscape:export-xdpi="693"
+     inkscape:export-ydpi="693">
+    <path
+       id="path21"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="m 8.8984375,0.75 v 5.3105469 h 1.1757815 v 1.7285156 h 3.279297 V 0.75 Z"
+       inkscape:label="Head" />
+    <path
+       id="path22"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="m 8.8984375,0.5 a 0.250025,0.250025 0 0 0 -0.25,0.25 v 5.3105469 h 0.5 V 1 h 3.9550785 v 6.5390625 h -3.029297 v 0.5 h 3.279297 a 0.250025,0.250025 0 0 0 0.25,-0.25 V 0.75 a 0.250025,0.250025 0 0 0 -0.25,-0.25 z"
+       inkscape:label="HeadOutline" />
+    <path
+       id="path19"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="M 0.75,6.0605469 V 13.099609 H 11.021484 V 6.0605469 H 10.074219 V 10.818359 H 2.4648438 V 6.0605469 Z"
+       inkscape:label="Body" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+       d="m 0.75,5.8105469 a 0.250025,0.250025 0 0 0 -0.25,0.25 v 7.0390621 a 0.250025,0.250025 0 0 0 0.25,0.25 h 10.271484 a 0.250025,0.250025 0 0 0 0.25,-0.25 V 6.0605469 a 0.250025,0.250025 0 0 0 -0.25,-0.25 z m 0.25,0.5 h 9.771484 V 12.849609 H 1 Z"
+       id="path20"
+       inkscape:label="BodyOutline" />
+    <g
+       id="g17"
+       inkscape:label="P2Outlines">
+      <path
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+         d="m 2.4648438,5.8105469 a 0.250025,0.250025 0 0 0 -0.25,0.25 v 4.7578121 a 0.250025,0.250025 0 0 0 0.25,0.25 h 7.6093752 a 0.250025,0.250025 0 0 0 0.25,-0.25 V 6.0605469 a 0.250025,0.250025 0 0 0 -0.25,-0.25 z m 0.25,0.5 h 7.109375 v 4.2578121 h -7.109375 z"
+         id="path17" />
+      <path
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+         d="m 13.353516,3.5351563 a 0.250025,0.250025 0 0 0 -0.25,0.25 v 2.1972656 a 0.250025,0.250025 0 0 0 0.25,0.25 h 2.519531 a 0.250025,0.250025 0 0 0 0.25,-0.25 V 3.7851563 a 0.250025,0.250025 0 0 0 -0.25,-0.25 z m 0.25,0.4999999 h 2.019531 v 1.6972657 h -2.019531 z"
+         id="path15" />
+      <path
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000"
+         d="m 13.353516,5.7324219 a 0.250025,0.250025 0 0 0 -0.25,0.25 v 1.3867187 a 0.250025,0.250025 0 0 0 0.25,0.25 h 0.839843 a 0.250025,0.250025 0 0 0 0.25,-0.25 V 5.9824219 a 0.250025,0.250025 0 0 0 -0.25,-0.25 z m 0.25,0.5 h 0.339843 v 0.8867187 h -0.339843 z"
+         id="path13" />
+    </g>
+  </g>
+  <g
+     id="g23"
+     inkscape:label="Extra"
+     style="display:inline"
+     inkscape:export-filename="eye.png"
+     inkscape:export-xdpi="693"
+     inkscape:export-ydpi="693">
+    <path
+       d="M 11.09248,3.78555 V 2.60373 h 2.26198 v 1.18182 z"
+       fill="#ffffff"
+       stroke="none"
+       stroke-width="0"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       id="path9"
+       style="stroke-miterlimit:10"
+       inkscape:label="Iris" />
+    <path
+       d="M 12.22347,3.78555 V 2.60373 h 1.13099 v 1.18182 z"
+       fill="#000000"
+       stroke="none"
+       stroke-width="0"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       id="path10"
+       style="stroke-miterlimit:10"
+       inkscape:label="Pupil" />
+    <path
+       d="M 11.09248,3.78555 V 2.60373 h 2.26198 v 1.18182 z"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path11"
+       style="stroke-miterlimit:10"
+       inkscape:label="EyeOutline" />
+  </g>
+</svg>
+<!--rotationCenter:5.123314999999991:9.786000000000001-->
+
